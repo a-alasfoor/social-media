@@ -1,0 +1,18 @@
+/* styles/globals.css */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #f9fafb;
+  color: #111;
+}
+
+h1, h2, h3 {
+  margin-top: 0;
+}
+
+main {
+  padding: 2rem;
+}
